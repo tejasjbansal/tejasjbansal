@@ -1,5 +1,10 @@
 ### Hi there 👋 I'm Tejash Bansal!
 
+### About Me 🚀
+- 🔭 I’m currently pursuing my computer science degree from Graphic Era University Dehradun.
+- 🌱 I’m currently learning more & more about Machine Learning Algorithms, Deep Learning & Deploying Models on Cloud.
+- 👯 I’m looking to collaborate on Machine Learning and Deeplearning Projects as well as Django Projects.
+- 📫 How to reach me: tejasjbansal678@gmail.com
 <!--
 **tejasjbansal/tejasjbansal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
