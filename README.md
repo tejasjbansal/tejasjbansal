@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Machine Learning and Deeplearning Projects as well as Django Projects.
 - 📫 How to reach me: tejasjbansal678@gmail.com
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=isupersky.isupersky)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=tejasjbansal.tejasjbansal)
 <!--
 **tejasjbansal/tejasjbansal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
