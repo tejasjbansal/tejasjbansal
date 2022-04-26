@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Tejash Bansal!
 
 ### About Me 🚀
-- 🔭 I’m currently pursuing my computer science degree from Graphic Era University Dehradun.
 - 🌱 I’m currently learning more & more about Data Engineering,Machine Learning Algorithms and Deep Learning.
 - 👯 I’m looking to collaborate on Data engineering,Machine Learning and Deeplearning Projects.
 - 📫 How to reach me: tejasjbansal678@gmail.com
